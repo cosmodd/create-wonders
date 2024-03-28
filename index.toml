@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/computercraft/recipes.js"
+hash = "47f53a68be1892364b252ef25183d1269e17df75a49820ee820861a22a45b5f4"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "ebb09834d83d8e413c0da20f2fd9665ad3fec85874260f5822dff2c37898a2b4"
 metafile = true
@@ -43,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "4ab1aa89bb469bfe3df1385551b5285af7c703cd2efe7a88fe9cdad23f21443c"
 metafile = true
 
 [[files]]
@@ -116,6 +125,11 @@ hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "17deebb6eaba8aebeaa7b01e4db476a59351f7b4ce4572ba18fe5dba84b76189"
 metafile = true
@@ -168,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/fishing-bobber-detector.pw.toml"
+hash = "fc39919e43e19650312ba967cbbc2ea7d1bd14a8fe677b8271dfe63b6e479df9"
 metafile = true
 
 [[files]]
