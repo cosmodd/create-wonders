@@ -1,0 +1,13 @@
+name = "Vein Mining (Fabric/Forge/Quilt)"
+filename = "veinmining-forge-1.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fac894378ae96f14c45b7b045b14896d61e5ab3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5198310
+project-id = 431611
