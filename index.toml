@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
+hash = "f492234f85af916bd709afec40e70dd74a7b72fee7d0b0fb08ee297f3e7be681"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "f77b147c1ba0dae6df313f77cff2926412f4a84c4dbcd6f049dd3d0643fb7a03"
+hash = "0a41d3de55c5335ccb1c7033046ec9a08a167d9661d9960cc6f589a078c222ca"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "da88967bc6a44c2f50edbe69cec5464de5ae41f6635a60466fc506df0f1f8b5f"
+hash = "0caf23775338ea3f1ff19d23e20b4c4989fa260b30e1fa55539b6964f11137c2"
 metafile = true
 
 [[files]]
