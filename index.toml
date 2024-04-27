@@ -9,6 +9,10 @@ file = "kubejs/server_scripts/functionalstorage/recipe.js"
 hash = "8e24571ecb23cd07622a650afbe035ee297d239061a88adf173ed6b0bb9685e6"
 
 [[files]]
+file = "kubejs/server_scripts/immersive_aircrafts/recipe.js"
+hash = "1266860805f2bc9ecd1fefa9ebc1b1433d8516189d1c9dca13bea1e221591e31"
+
+[[files]]
 file = "kubejs/server_scripts/toms_storage/recipe.js"
 hash = "95e3e79baf89bb8c9a4032ff65ee7c75208e3fca9fa9ee15f81378bfe01ef320"
 
@@ -630,11 +634,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "d925d89ab420bc00b3c3c2b5db81a00b94ba309759f5c34fa308f681e5d02496"
-metafile = true
-
-[[files]]
-file = "mods/inventory-essentials.pw.toml"
-hash = "c6b7d674814f31cc4882b6882ab52a103caae5df11f2881b356c1018ca3b832f"
 metafile = true
 
 [[files]]
