@@ -401,6 +401,11 @@ hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
 metafile = true
