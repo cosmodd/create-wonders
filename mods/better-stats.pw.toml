@@ -1,6 +1,6 @@
 name = "Better Statistics Screen"
 filename = "betterstats-3.9.7+fabric-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
