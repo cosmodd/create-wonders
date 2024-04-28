@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f03d29011607b2d6a07a0e7f21cb19d5251655888d27dbf0b4da790f39444fb1"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "d72423936384931bf1abc44aff053fcd1a25cc4b6524dd8574be66e5a770e356"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "c29222cea1a31d6edd4f9d6421e74bc6a43c35324db83814c1d4dbc3738c986c"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "8006102ac15963aa2285df22bc4408aa8dfb308c480da7dba3c920163198db0e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d7872c6f2fab776a5d57852ca2bb0d9e5633f31469f05930fce61eae9001d840"
 
 [[files]]
 file = "kubejs/server_scripts/computercraft/recipes.js"
@@ -402,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
+hash = "8e886eb68cdc1883b8900ca4eea722bff63fff0c9f4ec00900bde1bee6c2afcf"
 metafile = true
 
 [[files]]
